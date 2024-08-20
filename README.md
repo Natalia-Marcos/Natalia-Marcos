@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Natalia 
 - 👀 I’m interested in Frontend Development and Technology
-- 🌱 I’m currently learning more about Frontend frameworks and languagens 
+- 🌱 I’m currently learning more about Frontend frameworks and languages 
 - 💞️ I’m looking to collaborate on open-source projects related to web development
 - 📫 How to reach me natholiveiramarcos@gmail.com
 - 😄 Pronouns: her/she 
