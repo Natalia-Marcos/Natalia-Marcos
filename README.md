@@ -1,7 +1,6 @@
 # 🌟 Olá! Eu sou a Natália!
 
 [![GitHub followers](https://img.shields.io/github/followers/Natalia-Marcos?style=social)](https://github.com/seu-usuario)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nat%C3%A1lia-marcos/)](https://www.linkedin.com/in/natalia-marcos-/)
 
 ### 🚀 Sobre mim
 Apaixonada por tecnologia e desenvolvimento de software, estou sempre em busca de aprender algo novo e criar projetos incríveis!
